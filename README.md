@@ -61,7 +61,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/rousanraahat/nova-dashboard.git
+git clone https://github.com/Fronter-xd/nova-dashboard.git
 cd nova-dashboard
 
 # Install dependencies
@@ -172,4 +172,4 @@ MIT License - feel free to use for personal or commercial projects.
 
 ---
 
-**Built with ❤️ by [Rousan Raahat](https://github.com/rousanraahat)**
+**Built with ❤️ by [Rousan Raahat](https://github.com/Fronter-xd)**
